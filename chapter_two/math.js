@@ -1,0 +1,11 @@
+// console.log(Math.E);
+// console.log(Math.PI);
+// console.log(Math.abs(-10.123));
+// console.log(Math.floor(10.789));
+// console.log(Math.ceil(10.123));
+// console.log(Math.round(1.5));
+// console.log(Math.max(10, 30, 60, 90));
+// console.log(Math.min(12, 52, 64, 96));
+// console.log(Math.pow(2, 3));
+// console.log(Math.sqrt(4));
+// console.log(Math.round(Math.random() * 50 + 1));
