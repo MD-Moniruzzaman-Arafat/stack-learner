@@ -1,5 +1,3 @@
-
-
 for (; ;) {
     var rand = Math.floor(Math.random() * 10);
     if (rand == 6) {
