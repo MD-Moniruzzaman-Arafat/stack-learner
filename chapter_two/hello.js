@@ -1,5 +1,5 @@
-console.log('hello world');
-console.log('i love bangladesh');
+console.log('hello world'); //normal string print with single quotation
+console.log("i love bangladesh"); //normal string print with double quotation
 console.log(40);
 console.log(40.23);
 console.log('my roll number is ' + 10);
